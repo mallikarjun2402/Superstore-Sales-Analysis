@@ -23,6 +23,10 @@ Excel, SQL, Python and Power BI.
 - Superstore SQL Queries.sql — SQL queries
 - Superstore_Python_Analysis.ipynb — Python code
 - Superstore Dashboard.pbix — Power BI dashboard
+## 📸 Project Screenshots
+
+### 🔴 Power BI Dashboard
+![Power BI Dashboard](superstoresalesdashboard.png)  
 
 ## 🏆 Results
 - Total Sales: $2.30M
